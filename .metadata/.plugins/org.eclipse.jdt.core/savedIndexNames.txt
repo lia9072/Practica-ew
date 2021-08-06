@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\USUARIO\Desktop\AED - Caso Práctico CL2\.metadata\.plugins\org.eclipse.jdt.core
+337694083.index
+3306674791.index
+2368314425.index
